@@ -1,4 +1,6 @@
-# ice-scaffold-lite
+# Arbitrary-Gate-Navigation
+
+[![ice](https://img.shields.io/badge/developing%20with-ICE-2077ff.svg)](https://github.com/alibaba/ice)
 
 ## 使用
 
@@ -16,6 +18,3 @@
 - 通用组件: `src/components`
 - 页面文件: `src/pages`
 
-## 效果图
-
-![screenshot](https://img.alicdn.com/tfs/TB1CjPVw4naK1RjSZFBXXcW7VXa-2872-1580.png)
